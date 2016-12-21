@@ -1,0 +1,33 @@
+.jumbotron{
+    width: 100%;
+    height: 100%;
+    background: #428BCA;
+    color: #fff;
+    margin: 20px 0px;
+}
+
+.linea{
+    background-color: black;
+    height: 1px;
+    width: 100%;
+    margin: 5px;
+}
+
+.seccion{
+    padding-top: 50px;
+}
+
+.lead{
+    font-size: 19px;
+    font-weight: lighter;
+    color:dimgray;
+}
+
+footer{
+    color: lightslategray;
+}
+
+.icono{
+    font-size: 30px;
+}
+
